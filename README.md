@@ -1,0 +1,2 @@
+# NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
+Developed an isolated cybersecurity lab using VirtualBox and Kali Linux to support ethical hacking and security testing. The environment features a NAT-based virtual network, static IP configuration, connectivity validation, and VM snapshots. It provides a safe platform for reconnaissance, vulnerability assessment, and hands-on learning. securely.!
